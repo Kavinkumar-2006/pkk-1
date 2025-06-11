@@ -1,4 +1,4 @@
-# pkk-1
+# Credit Card Fraud Detection 
 
 Credit card fraud detection is the process of identifying unauthorized or suspicious transactions on a credit card. It uses **data analytics, machine learning (ML), and rule-based systems** to spot patterns that indicate fraudulent behavior.
 
